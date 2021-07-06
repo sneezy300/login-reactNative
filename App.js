@@ -38,7 +38,8 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    marginHorizontal: 50
+    marginHorizontal: 50,
+    marginVertical: 50
   },
 
   LoginText: {
